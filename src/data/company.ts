@@ -6,10 +6,10 @@ export const companyInfo = {
   contact: {
     person: "Shivangi Dalal",
     address: {
-      line1: "G-112, Ground Floor",
-      line2: "Westfield Mall, Opp Surya Kiran App",
+      line1: "1016 , Westfield Mall",
+      line2: "Opposite of suryakiran apartment , Adarsh Soceity",
       line3: "Ghod Dod Road",
-      city: "Surat",
+      city: "Athwa , Surat",
       pincode: "395002",
     },
     phones: ["7359979466", "7202088864"],
