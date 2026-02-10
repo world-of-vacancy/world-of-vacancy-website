@@ -4,17 +4,17 @@ export const companyInfo = {
   tagline: "Best Way To Success",
   description: "A community-oriented, branch-centric recruitment firm focused on building long-term relationships with clients.",
   contact: {
-    person: "Shivangi Dalal",
+    person: "Mrs. Shivangi Dalal",
     address: {
       line1: "1016 , Westfield Mall",
-      line2: "Opposite of suryakiran apartment , Adarsh Soceity",
+      line2: "Opposite suryakiran appartment , Adarsh Soceity",
       line3: "Ghod Dod Road",
       city: "Athwa , Surat",
-      pincode: "395002",
+      pincode: "395007",
     },
-    phones: ["7359979466", "7202088864"],
+    phones: ["7359979466", "9081099968"],
     email: "jobs.wov@gmail.com",
-    website: "www.worldofvacancy.com",
+    website: "www.worldofvacancy.in",
   },
 };
 
